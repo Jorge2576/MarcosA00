@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+    background: url("fondo-degradado.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    justify-content: space-between;
+}
+
+a{
+    background: rgba(231, 79, 79, 0.4);
+    border: 2px solid black;
+    padding: 10px;
+    text-align: center;
+    margin: 50px;
+}
+
+#menu{
+    text-decoration: none;
+    align-items: center;
+    justify-content: end;
+    display: flex;
+}
