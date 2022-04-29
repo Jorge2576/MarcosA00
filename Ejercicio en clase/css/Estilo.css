@@ -1,0 +1,117 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: rgb(114, 180, 189);
+    font-family: 'Cousine', monospace;
+font-family: 'PT Sans Narrow', sans-serif;
+}
+
+header{
+    background-color: rgb(46, 45, 45);
+    font-family: 'Cousine', monospace;
+font-family: 'PT Sans Narrow', sans-serif;
+    padding: 10pt;
+    margin: 3pt;
+}
+
+header h1{
+    background-color: rgb(46, 45, 45);
+    color: rgb(176, 207, 196);
+    text-align: center;
+    font-size: 48pt;
+    padding-top: 35pt;
+    padding-bottom: 35pt;
+}
+
+header nav{
+    background-color: rgb(176, 207, 196);
+    color: rgb(46, 45, 45);
+    text-align: center;
+    font-size: 30pt;
+    word-spacing: 100pt;
+    padding-top: 30pt;
+    padding-bottom: 30pt;
+}
+
+.Vinculos{
+    border: 3pt dotted rgb(46, 45, 45);
+    background-color: rgb(176, 207, 196);
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 5pt;
+    padding-right: 5pt;
+    text-decoration: none;
+}
+
+#Enlace1{
+    color: yellow;
+}
+
+#Enlace2{
+    color: rgb(0, 167, 233);
+}
+
+#Enlace3{
+    color: rgb(216, 0, 216);
+}
+
+#Enlace4{
+    color: rgb(46, 45, 45);
+}
+
+div{
+    display: flex;
+    
+}
+
+main article{
+    background-color: rgb(0, 167, 233);
+    text-align: center;
+    border: 3pt solid rgb(46, 45, 45);
+    margin-left: 3pt;
+    padding-right: 375pt;
+    padding-left: 375pt;
+    padding-bottom: 187pt;
+}
+
+main article h2{
+    font-size: 35pt;
+}
+
+main article p{
+    font-size: 20pt;
+}
+
+main aside{
+    background-color: rgb(216, 0, 216);
+    text-align: center;
+    margin-left: 3pt;
+    border: 3pt solid rgb(46, 45, 45);
+    padding-right: 138pt;
+    padding-left: 138pt;
+    padding-bottom: 187pt;
+}
+
+main aside h2{
+    font-size: 35pt;
+}
+
+main aside p{
+    font-size: 25pt;
+}
+
+main aside form{
+    font-size: 20pt;
+}
+
+footer{
+    background-color: yellow;
+    text-align: center;
+    font-size: 20pt;
+    border: 3pt solid rgb(46, 45, 45);
+    margin: 3pt;
+    padding: 30pt;
+}
